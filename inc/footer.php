@@ -1,4 +1,4 @@
-<footer>
+<footer class="bg-dark text-white text-center mt-5 p-2">
     <div class="container">
         <div class="row">
             <p>&copy; 2023 Microservices</p>

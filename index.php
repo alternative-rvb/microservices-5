@@ -19,7 +19,6 @@ include 'functions.php';
             <div class="row">
                 <div>
                     <h1>Microservices</h1>
-                    <a class="btn btn-primary" href="dashboard.php"><i class="bi bi-pencil-square"></i> Admin</a>
                 </div>
             </div>
             <div class="row">
